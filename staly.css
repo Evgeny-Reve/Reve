@@ -1,0 +1,30 @@
+body{
+	background-color: #dedbdb;
+	color: rgb(82, 85, 104);
+	font-size: 16px;
+	font-weight: normal;
+	
+}
+
+.img1{
+	width: 200px;
+	border-radius: 28px;
+	box-shadow: 7px 7px 14px rgb(196, 11, 216);
+}
+.info p {
+	color: rgb(14, 29, 19);
+	margin: 0;
+	font-style: italic;
+	font-weight: bold;
+	text-decoration: none;
+	/* text-transform:capitalize ; */
+	/* letter-spacing: 10px */
+	/* word-spacing: 42px; */
+}
+.social{
+	background: rgb(162, 154, 154);
+}
+.container{
+	max-width: 750px;
+	margin: auto;
+}
